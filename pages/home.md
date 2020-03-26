@@ -37,7 +37,7 @@ eleventyNavigation:
 	</section>
 	<section>
 		<h2>Tips</h2>
-		<p>I'm donating 75% of any tips collected during my livestream concert to <a href="https://www.grammy.com/musicares/get-help/musicares-coronavirus-relief-fund" target="_blank">MusiCares</a>. They established the COVID-19 Relief Fund to folks in the music community affected by the Coronavirus pandemic.<br><br>More details to come!</p>
+		<p>I'm donating 75% of any tips collected during my livestream concert to <a href="https://www.grammy.com/musicares/get-help/musicares-coronavirus-relief-fund" target="_blank">MusiCares</a>. They established the COVID-19 Relief Fund to help folks in the music community affected by the Coronavirus pandemic.<br><br>More details to come!</p>
 		</section>
 	<footer>
 		<p>© 2020 Casey Cavanagh Music</p>
