@@ -15,7 +15,6 @@ eleventyNavigation:
 </svg>
 	</div>
 
-
 <div class="twitch">
   <div class="twitch-video">
     <iframe
@@ -29,7 +28,7 @@ eleventyNavigation:
   </div>
 	<div class="about">
 	<section>
-		<p>Since we are all doing our part to flatten the curve, I thought would be fun to livestream a concert in my basement. Tune in <strong>this Friday, March 27th at 8pm EST</strong> for a full concert. Stream it right here, on <a href="https://www.twitch.tv/caseycavanagh" target="_blank">Twitch</a> or on <a href="https://www.instagram.com/casey.cavanagh" target="_blank">Instagram Live.</a></p>
+		<p>Since we are all doing our part to flatten the curve, I thought would be fun to livestream a concert in my basement.<br><br>Tune in <strong>this Friday, March 27th at 8pm EST</strong> for a full concert. Stream it right here, on <a href="https://www.twitch.tv/caseycavanagh" target="_blank">Twitch</a> or on <a href="https://www.instagram.com/casey.cavanagh" target="_blank">Instagram Live.</a></p>
 		<div class="social">
 				<a href="https://instagram.com/casey.cavanagh" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
 				<a href="http://www.twitch.tv/caseycavanagh" target="_blank"><i class="fa fa-twitch" aria-hidden="true"></i></a>
