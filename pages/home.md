@@ -29,24 +29,18 @@ eleventyNavigation:
 	<div class="about">
 
 <section>
-
-<div class="social">
-				<a href="https://instagram.com/casey.cavanagh" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-				<a href="http://www.twitch.tv/caseycavanagh" target="_blank"><i class="fa fa-twitch" aria-hidden="true"></i></a>
-<!-- 				<a href="https://www.caseycavanaghmusic.com" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a> -->
-			</div>
+<!-- <p>
+<a class="button button-twitch" target="blank" href="https://www.twitch.tv/caseycavanagh"> <i class="fa fa-twitch"></i>&nbsp;Twitch</a>
+<a class="button button-instagram" target="blank" href="https://www.instagram.com/casey.cavanagh"> <i class="fa fa-instagram"></i>&nbsp;Instagram</a>
+</p> -->
 
 </section>
-	<section>
-		<p>Since we are all doing our part to flatten the curve, I thought would be fun to livestream a concert in my basement.<br><br>Tune in <strong>this Friday, March 27th at 8pm EST</strong> for a full concert. Stream it right here, on <a href="https://www.twitch.tv/caseycavanagh" target="_blank">Twitch</a> or on <a href="https://www.instagram.com/casey.cavanagh" target="_blank">Instagram Live.</a></p>
-	</section>
+	<!-- <section>
+  <h2>About</h2>
+		<p>Since we are all doing our part to flatten the curve, I thought would be fun to livestream a concert in my basement. Thanks for tuning in!</p>
+	</section> -->
 	<section>
 		<h2>Virtual Tip Jar</h2>
-		<p>I'm donating 75% of any tips collected during my livestream concert to <a href="https://www.grammy.com/musicares/get-help/musicares-coronavirus-relief-fund" target="_blank">MusiCares</a>. They established the COVID-19 Relief Fund to help folks in the music community affected by the Coronavirus pandemic.<br><br>More details to come!</p>
-		</section>
-	<footer>
-		<p>© 2020 Casey Cavanagh Music</p>
-</footer>
-</div>
-</div>
-</div>
+		<p>I'm donating 75% of total tips collected during my livestream concert to <a href="https://www.grammy.com/musicares/get-help/musicares-coronavirus-relief-fund">MusiCares</a>. They established the COVID-19 Relief Fund to help folks in the music community affected by the Coronavirus pandemic. I recognize that times are tough but if you can spare a few dollars, it will go a long way.<br><br>
+    <a class="button button-paypal" target="blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FRDL9EDWGRBWG&source=url"> <i class="fa fa-paypal"></i>&nbsp;Paypal</a>
+    <a class="button button-venmo" target="blank" href="https://venmo.com/code?user_id=1345681100898304178"> <i class="fa fa-money"></i>&nbsp;Venmo</a>

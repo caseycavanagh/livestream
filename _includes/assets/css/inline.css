@@ -83,3 +83,124 @@ footer{
     padding-top: 56%;
   }
 }
+
+/* Buttons
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.button,
+button,
+input[type="button"] {
+  display: inline-block;
+  height: 48px;
+  padding: 0 16px;
+	margin: 12px;
+  width: 300px;
+  color: #555;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: .1rem;
+  text-transform: uppercase;
+  text-decoration: none;
+  white-space: nowrap;
+  background-color: transparent;
+  border-radius: 4px;
+  border: 0px solid #bbb;
+  cursor: pointer;
+  box-sizing: border-box;
+ }
+.button:hover,
+button:hover,
+input[type="button"]:hover,
+.button:focus,
+button:focus,
+input[type="button"]:focus {
+  color: #333;
+  border-color: #888;
+  outline: 0; }
+.button.button-primary,
+button.button-primary,
+input[type="button"].button-primary {
+  color: #FFF;
+  background-color: #33C3F0;
+  border-color: #33C3F0; }
+.button.button-primary:hover,
+button.button-primary:hover,
+input[type="button"].button-primary:hover,
+.button.button-primary:focus,
+button.button-primary:focus,
+input[type="button"].button-primary:focus {
+  color: #FFF;
+  background-color: #1EAEDB;
+  border-color: #1EAEDB; }
+
+	/* Button Styles - paypal */
+	.button.button-paypal,
+	button.button-paypal,
+	input[type="button"].button-paypal {
+	  color: #FFF;
+	  background-color: #042c81;
+	  border-color: #042c81; }
+	.button.button-paypal:hover,
+	button.button-paypal:hover,
+	input[type="button"].button-paypal:hover,
+	.button.button-paypal:focus,
+	button.button-paypal:focus,
+	input[type="button"].button-paypal:focus {
+	  color: #FFF;
+	  background-color: #042367;
+	  border-color: #042367; }
+
+
+			/* Button Styles - venmo */
+			.button.button-venmo,
+			button.button-venmo,
+			input[type="button"].button-venmo {
+			  color: #FFF;
+			  background-color: #4a93c7;
+			  border-color: #4a93c7; }
+			.button.button-venmo:hover,
+			button.button-venmo:hover,
+			input[type="button"].button-venmo:hover,
+			.button.button-venmo:focus,
+			button.button-venmo:focus,
+			input[type="button"].button-venmo:focus {
+			  color: #FFF;
+			  background-color: #0f4871;
+			  border-color: #0f4871; }
+
+
+
+	/* Button Styles - Twitch */
+	.button.button-twitch,
+	button.button-twitch,
+	input[type="button"].button-twitch {
+	  color: #FFF;
+	  background-color: #9146FF;
+	  border-color: #9146FF; }
+	.button.button-twitch:hover,
+	button.button-twitch:hover,
+	input[type="button"].button-twitch:hover,
+	.button.button-twitch:focus,
+	button.button-twitch:focus,
+	input[type="button"].button-twitch:focus {
+	  color: #FFF;
+	  background-color: #8340E5;
+	  border-color: #8340E5; }
+
+/* Button Styles - Instagram */
+.button.button-instagram,
+button.button-instagram,
+input[type="button"].button-instagram {
+  color: #FFF;
+  background-image: linear-gradient(-135deg,#1400c8,#b900b4,#f50000);
+  border-color: #f50000; }
+.button.button-instagram:hover,
+button.button-instagram:hover,
+input[type="button"].button-instagram:hover,
+.button.button-instagram:focus,
+button.button-instagram:focus,
+input[type="button"].button-instagram:focus {
+  color: #FFF;
+  background-image: linear-gradient(-135deg,#1100AA,#9D0099,#D00000);
+  border-color: #D00000; }
