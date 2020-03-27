@@ -29,9 +29,6 @@ eleventyNavigation:
 	<div class="about">
 
 <section>
-		<h2>Stream the Virtual Concert</h2>
-
-
 
 <div class="social">
 				<a href="https://instagram.com/casey.cavanagh" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
@@ -44,7 +41,7 @@ eleventyNavigation:
 		<p>Since we are all doing our part to flatten the curve, I thought would be fun to livestream a concert in my basement.<br><br>Tune in <strong>this Friday, March 27th at 8pm EST</strong> for a full concert. Stream it right here, on <a href="https://www.twitch.tv/caseycavanagh" target="_blank">Twitch</a> or on <a href="https://www.instagram.com/casey.cavanagh" target="_blank">Instagram Live.</a></p>
 	</section>
 	<section>
-		<h2>Tips</h2>
+		<h2>Virtual Tip Jar</h2>
 		<p>I'm donating 75% of any tips collected during my livestream concert to <a href="https://www.grammy.com/musicares/get-help/musicares-coronavirus-relief-fund" target="_blank">MusiCares</a>. They established the COVID-19 Relief Fund to help folks in the music community affected by the Coronavirus pandemic.<br><br>More details to come!</p>
 		</section>
 	<footer>
