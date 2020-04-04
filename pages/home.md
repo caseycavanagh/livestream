@@ -17,7 +17,7 @@ eleventyNavigation:
 
 <div class="twitch">
 
-<h2 style="text-align:center; font-weight: 400; font-size: 20px;"> 👇 Next Streaming Performance: Tonight @ 8pm EST 👇</h2>
+<h2 style="text-align:center; font-weight: 400; font-size: 20px;"> 👇 Next Streaming Performance: Coming Soon! 👇</h2>
   <div class="twitch-video">
     <iframe
       src="https://player.twitch.tv/?channel=caseycavanagh&autoplay=false"
