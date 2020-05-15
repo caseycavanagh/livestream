@@ -17,7 +17,7 @@ eleventyNavigation:
 
 <div class="twitch">
 
-<h2 style="text-align:center; font-weight: 400; font-size: 20px;"> 👇 This Friday, 8PM EST 👇</h2>
+<!-- <h2 style="text-align:center; font-weight: 400; font-size: 20px;"> 👇 This Friday, 8PM EST 👇</h2> --!>
 
   <div class="twitch-video">
     <iframe
@@ -31,17 +31,15 @@ eleventyNavigation:
   </div>
 	<div class="about">
 
-<section>
-<!-- <p>
+<!-- <section><p>
+
+<a class="button button-twitch" target="blank" href="https://www.facebook.com/caseyjcavanagh"> <i class="fa fa-facebook"></i>&nbsp;Facebook</a>
 <a class="button button-twitch" target="blank" href="https://www.twitch.tv/caseycavanagh"> <i class="fa fa-twitch"></i>&nbsp;Twitch</a>
 <a class="button button-instagram" target="blank" href="https://www.instagram.com/casey.cavanagh"> <i class="fa fa-instagram"></i>&nbsp;Instagram</a>
-</p> -->
+</p>
 
-</section>
-	<!-- <section>
-  <h2>About</h2>
-		<p>Since we are all doing our part to flatten the curve, I thought would be fun to livestream a concert in my basement. Thanks for tuning in!</p>
-	</section> -->
+</section> --!>
+	
 	<section>
 		<h2>Virtual Tip Jar</h2>
 		<p>I'm donating 75% of total tips collected during my livestream concert to <a href="https://www.grammy.com/musicares/get-help/musicares-coronavirus-relief-fund">MusiCares</a>. They established the COVID-19 Relief Fund to help folks in the music community affected by the Coronavirus pandemic. If you have a few dollars to spare, it will go a long way.<br><br>
