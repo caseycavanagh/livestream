@@ -20,14 +20,7 @@ eleventyNavigation:
 <!-- <h2 style="text-align:center; font-weight: 400; font-size: 20px;"> 👇 This Friday, 8PM EST 👇</h2> --!>
 
   <div class="twitch-video">
-    <iframe
-      src="https://player.twitch.tv/?channel=caseycavanagh&autoplay=false"
-      frameborder="0"
-      scrolling="no"
-      allowfullscreen="true"
-      height="0"
-      width="100%">
-    </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9TaiPgwdsz0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 	<div class="about">
 
@@ -42,6 +35,6 @@ eleventyNavigation:
 	
 	<section>
 		<h2>Virtual Tip Jar</h2>
-		<p>I'm donating 75% of total tips collected during my livestream concert to <a href="https://www.grammy.com/musicares/get-help/musicares-coronavirus-relief-fund">MusiCares</a>. They established the COVID-19 Relief Fund to help folks in the music community affected by the Coronavirus pandemic. If you have a few dollars to spare, it will go a long way.<br><br>
+		<p>I'm donating 100% of total tips collected during my livestream concert to <a href="https://eji.org/about/">Equal Justice Initiative</a>. EJI works to end mass incarceration, excessive punishment, and racial inequality. If you have a few dollars to spare, it will go a long way.<br><br>
     <a class="button button-paypal" target="blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FRDL9EDWGRBWG&source=url"> <i class="fa fa-paypal"></i>&nbsp;Paypal</a>
     <a class="button button-venmo" target="blank" href="https://venmo.com/code?user_id=1345681100898304178"> <i class="fa fa-money"></i>&nbsp;Venmo</a>
