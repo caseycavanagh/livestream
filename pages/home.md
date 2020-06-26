@@ -20,10 +20,9 @@ eleventyNavigation:
     </div>
   </div>
 
-    <section class="about">
-      <h2>Virtual Tip Jar</h2>
-      <p>I'm donating 100% of total tips collected during my livestream concert to <a href="https://eji.org/about/">Equal Justice Initiative</a>. EJI works to end mass incarceration, excessive punishment, and racial inequality. If you have a few dollars to spare, it will go a long way.<br><br>
+
+## Virtual Tip Jar
+I'm donating 100% of total tips collected during my livestream concert to <a href="https://eji.org/about/">Equal Justice Initiative</a>. EJI works to end mass incarceration, excessive punishment, and racial inequality. If you have a few dollars to spare, it will go a long way.<br><br>
         <a class="button button-paypal" target="blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FRDL9EDWGRBWG&source=url"> <i class="fa fa-paypal"></i>&nbsp;Paypal</a>
         <a class="button button-venmo" target="blank" href="https://venmo.com/code?user_id=1345681100898304178"> <i class="fa fa-money"></i>&nbsp;Venmo</a>
-    </section>
-</div>
+
