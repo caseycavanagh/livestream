@@ -17,24 +17,13 @@ eleventyNavigation:
 
 <div class="twitch">
 
-<!-- <h2 style="text-align:center; font-weight: 400; font-size: 20px;"> 👇 This Friday, 8PM EST 👇</h2> --!>
-
   <div class="twitch-video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9TaiPgwdsz0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
-	<div class="about">
-
-<!-- <section><p>
-
-<a class="button button-twitch" target="blank" href="https://www.facebook.com/caseyjcavanagh"> <i class="fa fa-facebook"></i>&nbsp;Facebook</a>
-<a class="button button-twitch" target="blank" href="https://www.twitch.tv/caseycavanagh"> <i class="fa fa-twitch"></i>&nbsp;Twitch</a>
-<a class="button button-instagram" target="blank" href="https://www.instagram.com/casey.cavanagh"> <i class="fa fa-instagram"></i>&nbsp;Instagram</a>
-</p>
-
-</section> --!>
-	
-	<section>
+		
+	<section class="about">
 		<h2>Virtual Tip Jar</h2>
 		<p>I'm donating 100% of total tips collected during my livestream concert to <a href="https://eji.org/about/">Equal Justice Initiative</a>. EJI works to end mass incarceration, excessive punishment, and racial inequality. If you have a few dollars to spare, it will go a long way.<br><br>
     <a class="button button-paypal" target="blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FRDL9EDWGRBWG&source=url"> <i class="fa fa-paypal"></i>&nbsp;Paypal</a>
     <a class="button button-venmo" target="blank" href="https://venmo.com/code?user_id=1345681100898304178"> <i class="fa fa-money"></i>&nbsp;Venmo</a>
+</section>
